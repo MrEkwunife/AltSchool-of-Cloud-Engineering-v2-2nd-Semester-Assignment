@@ -14,3 +14,4 @@
 
 - Create another user. Make sure that this user dosen't have a home directory
     - ![Fifth](https://i.imgur.com/2q1vvxu.png) 
+------------------------------------------------------------------------------------------------------------------
